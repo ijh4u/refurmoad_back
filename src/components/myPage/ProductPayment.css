@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap");
+
+* {
+margin: 0 auto;
+padding: 0;
+font-family: "Noto Sans KR", sans-serif;
+color: #000000;
+list-style: none;
+}
+
+body {
+margin: 0 auto;
+padding: 0;
+}
+
+.marginzero {
+  margin-left: 20px;
+}
+
+.productPay {
+  display: flex;
+  width: 560px;
+  margin-right: 60px;
+}
+
+.imagePay {
+  width: 200px;
+  height: 200px;
+  margin: 0;
+}
+
+.imagePay img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.productcodePay {
+  position: absolute;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  border: 1px solid #FFFFFF;
+  width: 200px;
+  background: rgba(255, 255, 255, 0.6);
+  padding-left: 5px;
+}
+
+.com_namePay {
+  font-size: 15px;
+  line-height: 20px;
+  color: #777777;
+  margin-top: 15px;
+}
+
+.product_namePay {
+  font-size: 20px;
+  overflow: hidden;
+  width: 340px;
+  height: 30px;
+  cursor: pointer;
+}
+
+.pricePay {
+  text-align: right;
+}
+
+.pricePay span {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.marginleftPay {
+  margin-left: 33px;
+}
+
+.redcolorPay {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  color: #ff0000;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+.redcolorPay img {
+  width: 18px;
+  height: 18px;
+  margin: 2px 10px 0px 0px;
+}
+
+.balckcolorPay {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  line-height: 30px;
+}
+
+.balckcolorPay img {
+  width: 18px;
+  height: 18px;
+  margin: 2px 10px 0px 0px;
+}
+
+
+.graycolorPay {
+  font-weight: 700;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  color: #999999;
+}
+
+.redcolormoneyPay {
+  color:red;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 5px;
+}
+
+.blackcolormoneyPay {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  margin-top: 5px;
+}
+
+.payButtonPay{
+  width: 96px;
+  height: 35px;
+  cursor: pointer;
+  background: #514438;
+  border-radius: 10px;
+
+  font-size: 18px;
+  color: #FFFFFF;
+
+  margin-top: 5px;
+}
+
+.cancleButtonPay{
+  width: 96px;
+  height: 35px;
+  
+  background: #514438;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-top: 5px;
+}
+
+.inqButtonPay{
+  width: 96px;
+  height: 35px;
+  cursor: pointer;
+  background: #514438;
+  border-radius: 10px;
+
+  font-size: 18px;
+  color: #FFFFFF;
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.mile {
+  margin-top: 5px;
+  text-align: right;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+
+  color: #333333;
+}
+

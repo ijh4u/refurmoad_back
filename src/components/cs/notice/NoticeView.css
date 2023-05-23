@@ -1,0 +1,92 @@
+.NV-wrap {
+  float: left;
+  width: 940px;
+}
+
+.NV-header {
+  width: 880px;
+  height: 35px;
+  margin: 0 20px 10px;
+}
+.NV-title {
+  float: left;
+  height: 35px;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 35px;
+  color: #514438;
+}
+
+.NV-line {
+  width: 936px;
+  border: 2px solid #c7b9ae;
+}
+.NV-board-wrap {
+  height: 725px;
+  margin-top: 25px;
+}
+.NV-title-wrap {
+  padding-left: 20px;
+  height: 35px;
+  margin-bottom: 10px;
+}
+.NV-board-title {
+  float: left;
+  font-size: 25px;
+}
+.NV-title-line {
+  width: 936px;
+  border: 1px solid #eeeeee;
+}
+
+.NV-date {
+  margin-right: 20px;
+  float: right;
+  font-size: 20px;
+  color: #666666;
+}
+
+.NV-info {
+  float: left;
+  padding: 25px 20px;
+}
+
+.NV-img {
+  clear: both;
+  width: 695px;
+  margin: 35px auto 30px;
+  object-fit: contain;
+}
+.NV-btn-wrap {
+  margin: 0 auto;
+}
+.NV-go-list-btn {
+  font-size: 20px;
+  padding: 9px 27.5px;
+  background-color: #514438;
+  border: 2px solid #514438;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+.NV-edit-btn {
+  margin: 0 0 0 10px;
+  font-size: 20px;
+  padding: 9px 27.5px;
+  background-color: white;
+  border: 2px solid #514438;
+  border-radius: 10px;
+  color: #514438;
+  cursor: pointer;
+}
+.NV-delete-btn {
+  /* margin-right: 300px; */
+  margin: 0 0 0 10px;
+  font-size: 20px;
+  padding: 9px 27.5px;
+  background-color: white;
+  border: 2px solid #514438;
+  border-radius: 10px;
+  color: #514438;
+  cursor: pointer;
+}
